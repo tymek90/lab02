@@ -1,0 +1,15 @@
+Z:\git\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.exe
+Z:\git\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.deps.json
+Z:\git\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.runtimeconfig.json
+Z:\git\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.dll
+Z:\git\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.pdb
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.AssemblyInfoInputs.cache
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.AssemblyInfo.cs
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.csproj.CoreCompileInputs.cache
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.dll
+Z:\git\HelloWorkshop\obj\Debug\net10.0\refint\HelloWorkshop.dll
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.pdb
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.genruntimeconfig.cache
+Z:\git\HelloWorkshop\obj\Debug\net10.0\ref\HelloWorkshop.dll
+Z:\git\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.sourcelink.json
